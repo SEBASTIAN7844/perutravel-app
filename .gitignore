@@ -1,0 +1,53 @@
+# Archivos compilados de Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/.gradle/
+android/app/build/
+android/gradle/wrapper/gradle-wrapper.jar
+
+# iOS
+ios/.generated/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+.env.local
+
+# Firebase (si los agregas después)
+google-services.json
+GoogleService-Info.plist
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Archivos de coverage
+coverage/
+
+# Archivos de Flutter web
+web/
+
+# Archivos de test
+test/

@@ -1,0 +1,13 @@
+// destinations/destinations_exports.dart
+export 'models/destination_detail_model.dart';
+export 'data/destinations_data.dart';
+export 'screens/destination_detail_screen.dart';
+export 'screens/destinations_list_screen.dart';
+export 'widgets/destination_card.dart';
+export 'widgets/destination_header.dart';
+export 'widgets/pricing_section.dart';
+export 'widgets/rules_section.dart';
+export 'widgets/gallery_section.dart';
+export 'widgets/booking_button.dart';
+export 'widgets/info_card.dart';
+export 'widgets/rating_widget.dart';
